@@ -24,7 +24,7 @@ Daemon for controlling NZXT Kraken series X52/X62/X72 under Linux distributions.
 >sudo chmod u+x /etc/vlm-krakenx/vlm-krakenx-daemon
 >
 **Create service**
-sudo touch /etc/systemd/system/vlm-krakenx-service.service
+>sudo touch /etc/systemd/system/vlm-krakenx-service.service
 >
 **Open service**
 >sudo nano /etc/systemd/system/vlm-krakenx-service.service
